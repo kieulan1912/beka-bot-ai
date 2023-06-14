@@ -1,0 +1,156 @@
+{
+    "ChatGPT": {
+      "Category": [
+        {
+          "name": "Chiêm tinh học",
+          "category_data": [
+            {
+              "title": "số học",
+              "description": "Giúp bạn giải mã những con số kỳ diệu và sức mạnh tiềm ẩn bằng cách sử dụng số và tên số học của bạn.",
+              "question": "Bạn có thể vui lòng tính số số học của tôi? "
+            },
+            {
+              "title": "Khả năng tương thích cung hoàng đạo",
+              "description": "Tìm hiểu xem bạn và đối tác của bạn sẽ tương thích với nhau như thế nào theo các cung hoàng đạo, cùng với tỷ lệ phần trăm trong tình yêu, hôn nhân, v.v.",
+              "question": "Cung hoàng đạo của tôi là bạch dương, cung hoàng đạo của đối tác của tôi là kim ngưu. "
+            },
+            {
+              "title": "Tử vi hàng ngày",
+              "description": "Tử vi hàng ngày của tất cả các cung hoàng đạo về tình yêu, sự nghiệp,",
+              "question": "Dấu hiệu hoàng đạo của tôi là: Arise, bạn có thể vui lòng viết tử vi hàng ngày của tôi về tình yêu, sự nghiệp"
+            },
+            {
+              "title": "Giải mã giấc mơ",
+              "description": "Khám phá những ý nghĩa ẩn giấu trong giấc mơ của bạn.",
+              "question": "Bạn có thể giải thích giấc mơ của tôi? "
+            },
+            {
+              "title": "Giới tính em bé trong tương lai",
+              "description": "Tôi sẽ sinh con trai hay con gái? ",
+              "question": "Bạn có thể vui lòng đoán giới tính em bé trong tương lai của chúng tôi? "
+            }
+          ]
+        },
+        {
+          "name": "Truyền thông xã hội",
+          "category_data": [
+            {
+              "title": "Bài đăng trên mạng xã hội",
+              "description": "Tăng cường sự hiện diện trực tuyến của bạn với tính năng đăng bài trên phương tiện truyền thông xã hội của chúng tôi.",
+              "question": "Tạo một bài đăng trên “Facebook” để tăng nhận thức về thương hiệu. "
+            },
+            {
+              "title": "Nhận đề xuất âm nhạc ♬",
+              "description": "Khám phá bài hát yêu thích tiếp theo của bạn với các chuyên gia âm nhạc của chúng tôi!",
+              "question": "Tạo danh sách phát gồm 10 bài hát. "
+            },
+            {
+              "title": "Có được trái tim của ai đó❤",
+              "description": "Tìm người phù hợp hoàn hảo với các mẹo tán tỉnh hoàn hảo của chúng tôi dành cho các ứng dụng hẹn hò!",
+              "question": "Tạo danh sách phát gồm 10 bài hát. "
+            }
+          ]
+        },
+        {
+          "name": "Thưởng thức",
+          "category_data": [
+            {
+              "title": "Chuyển văn bản thành biểu tượng cảm xúc",
+              "description": "Chuyển đổi từ thành biểu tượng cảm xúc",
+              "question": "Bạn có thể biến các từ thành biểu tượng cảm xúc không : Cười"
+            },
+            {
+              "title": "đề xuất phim",
+              "description": "Nhận đề xuất về nội dung bạn nên xem",
+              "question": "Bạn có thể vui lòng giới thiệu cho tôi một bộ phim có điểm IMDM từ 9 trở lên không, tâm trạng của tôi là: Bình tĩnh, thể loại phim yêu thích của tôi là: Hài kịch"
+            },
+            {
+              "title": "nói chuyện say rượu",
+              "description": "Trò chuyện với chatbot say xỉn",
+              "question": "Tại sao bạn lại có tâm trạng lãng mạn?"
+            },
+            {
+              "title": "Trình tạo nghệ thuật ASCII",
+              "description": "Tạo đồ họa ASCII từ một từ hoặc văn bản.",
+              "question": "Bạn có thể vui lòng tạo đồ họa ASCII từ câu này không: Xin chào"
+            },
+            {
+              "title": "Máy phát điện nhắc",
+              "description": "Tạo lời nhắc sáng tạo",
+              "question": "Tạo lời nhắc sáng tạo với câu này: Xin chào"
+            },
+            {
+              "title": "Tóm tắt cuốn sách",
+              "description": "Nhận một bản tóm tắt của cuốn sách",
+              "question": "Bạn có thể vui lòng tóm tắt cuốn sách này. "
+            },
+            {
+              "title": "Tạo mật khẩu",
+              "description": "Tạo mật khẩu an toàn không thể bẻ khóa",
+              "question": "Bạn có thể vui lòng tạo một mật khẩu an toàn không thể bẻ khóa được không, nó phải có độ dài 12 ký tự."
+            },
+            {
+              "title": "máy tính calo",
+              "description": "Máy tính lượng calo hàng ngày",
+              "question": "Bạn có thể vui lòng tính lượng calo hấp thụ hàng ngày của tôi không, giới tính của tôi là: Nam, tuổi của tôi là: 25, chiều cao của tôi là 170 cm, cân nặng của tôi là 70 kg, tôi hoạt động nhẹ hàng ngày."
+            },
+            {
+              "title": "Trích dẫn động lực hàng ngày",
+              "description": "Nhận liều lượng cảm hứng và sự tích cực hàng ngày của bạn với các trích dẫn động lực được chọn thủ công của chúng tôi!",
+              "question": "Viết cho tôi một trích dẫn động lực hàng ngày."
+            }
+          ]
+        },
+        {
+          "name": "Đi chơi",
+          "category_data": [
+            {
+              "title": "Những sự hấp dẫn ở địa phương",
+              "description": "Khám phá các điểm quan tâm và hấp dẫn gần đó.",
+              "question": "Đề xuất các địa điểm tham quan gần vị trí của tôi. Thành phố của tôi là: “ Las Vegas “."
+            }
+          ]
+        },
+        {
+          "name": "Giáo dục",
+          "category_data": [
+            {
+              "title": "người viết tiểu luận",
+              "description": "Ace với các dịch vụ viết luận chuyên gia của chúng tôi!",
+              "question": "Viết cho tôi bài luận. "
+            },
+            {
+              "title": "Viết lại câu",
+              "description": "Nâng cao khả năng viết của bạn và giao tiếp hiệu quả hơn với các công cụ viết lại câu của chúng tôi!",
+              "question": "Viết lại câu : “ What are you doing “ , mục đích viết lại là “ Rút gọn ngôn ngữ “"
+            },
+            {
+              "title": "sửa văn bản",
+              "description": "Đánh bóng bài viết của bạn và bắt mọi lỗi sai với tính năng chỉnh sửa văn bản chuyên nghiệp của chúng tôi!",
+              "question": "Sửa câu: “bạn ở đâu”"
+            }
+          ]
+        },
+        {
+          "name": "Sức khỏe",
+          "category_data": [
+            {
+              "title": "Nhận kế hoạch tập thể dục của bạn",
+              "description": "Nhận một kế hoạch đào tạo cá nhân tùy chỉnh",
+              "question": "Tạo một kế hoạch tập thể dục cho tôi. "
+            }
+          ]
+        },
+        {
+          "name": "Dịch",
+          "category_data": [
+            {
+              "title": "Dịch",
+              "description": "Dịch văn bản sang bất kỳ ngôn ngữ nào",
+              "question": "Bạn có thể vui lòng dịch sang tiếng Pháp? "
+            }
+          ]
+        }
+      ]
+    }
+  }
